@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod g+x o+x /path/ -type d
+chmod ugo=x /path/ -type d
