@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugo=x /path/ -type d
+chmod 755 /path/ -type d
